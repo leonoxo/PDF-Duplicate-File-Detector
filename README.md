@@ -25,7 +25,7 @@
 
 1. 執行腳本以分析重複的 PDF 檔案：
    ```
-   python analyze_duplicates.py
+   python analyze_duplicates.py "/路徑/目錄名"
    ```
 2. 查看生成的 `duplicate_analysis.log` 檔案以了解分析結果。
 3. 可選：將此工具與 Dify LLMOps 平台整合，以自動化重複檔案的識別和管理。
